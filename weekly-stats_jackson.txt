@@ -1,5 +1,6 @@
 ,,,,,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Rushing,
 Date,Team,,Opp,Result,Cmp,Att,Cmp%,Yds,TD,TD%,Int,Int%,Lng,Y/A,AY/A,Y/C,Rate,Sk,Yds,Sk%,NY/A,ANY/A,Att,Yds,TD,Lng,Y/A,Fmb
+2023-12-31,BAL,,MIA,W 56-19,18,21,85.7,321,5,23.8,0,0.0,75,15.3,20.05,17.8,158.3,1,9,4.55,14.18,18.73,6,35,0,18,5.8,0
 2023-12-25,BAL,@,SFO,W 33-19,23,35,65.7,252,2,5.7,0,0.0,39,7.2,8.34,11.0,105.9,2,11,5.41,6.51,7.59,7,45,0,30,6.4,0
 2023-12-17,BAL,@,JAX,W 23-7,14,24,58.3,171,1,4.2,1,4.2,26,7.1,6.08,12.2,76.9,3,26,11.11,5.37,4.44,12,97,0,21,8.1,0
 2023-12-10,BAL,,LAR,W 37-31 (OT),24,43,55.8,316,3,7.0,1,2.3,54,7.3,7.70,13.2,92.8,2,6,4.44,6.89,7.22,11,70,0,16,6.4,0

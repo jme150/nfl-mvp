@@ -1,5 +1,7 @@
 ,,,,,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Rushing,
 Date,Team,,Opp,Result,Cmp,Att,Cmp%,Yds,TD,TD%,Int,Int%,Lng,Y/A,AY/A,Y/C,Rate,Sk,Yds,Sk%,NY/A,ANY/A,Att,Yds,TD,Lng,Y/A,Fmb
+2024-01-07,PHI,@,NYG,L 10-27,7,16,43.8,55,0,0.0,1,6.3,12,3.4,0.63,7.9,26.8,2,26,11.11,1.61,-0.89,2,4,0,2,2.0,0
+2023-12-31,PHI,,ARI,L 31-35,18,23,78.3,167,3,13.0,1,4.3,23,7.3,7.91,9.3,118.4,0,0,0.00,7.26,7.91,8,25,0,13,3.1,0
 2023-12-25,PHI,,NYG,W 33-25,24,38,63.2,301,1,2.6,1,2.6,36,7.9,7.26,12.5,85.5,1,6,2.56,7.56,6.92,8,34,1,16,4.3,1
 2023-12-18,PHI,@,SEA,L 17-20,17,31,54.8,143,0,0.0,2,6.5,18,4.6,1.71,8.4,40.1,0,0,0.00,4.61,1.71,13,82,2,20,6.3,0
 2023-12-10,PHI,@,DAL,L 13-33,18,27,66.7,197,0,0.0,0,0.0,30,7.3,7.30,10.9,88.0,1,7,3.57,6.79,6.79,5,30,0,11,6.0,1
