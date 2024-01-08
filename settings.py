@@ -27,12 +27,12 @@ weeks = {1: [datetime.date(2023, 9, 7), datetime.date(2023, 9, 11)],
          15: [datetime.date(2023, 12, 14), datetime.date(2023, 12, 18)], 
          16: [datetime.date(2023, 12, 21), datetime.date(2023, 12, 25)], 
          17: [datetime.date(2023, 12, 28), datetime.date(2023, 12, 31)], 
-         18: [datetime.date(2023, 1, 6), datetime.date(2023, 1, 7)]}
+         18: [datetime.date(2024, 1, 6), datetime.date(2024, 1, 7)]}
 
 # Index constants for weeks dictionary (defined in settings.py)
-YEAR = 1
-MONTH = 2
-DAY = 3
+YEAR = 0
+MONTH = 1
+DAY = 2
 
 WEEK_START = 0
 WEEK_END = 1
