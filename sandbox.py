@@ -50,15 +50,9 @@ def main():
             
             # Add player's data to weekly data dictionary
             weekly_data[player] = lines
-
-
-            
-        
-    
-
-      
-
-                
+            print(player.upper())
+            for each in weekly_data[player]:
+                print(each, "\n")
 
     
 
