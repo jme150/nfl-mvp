@@ -1,0 +1,26 @@
+"""
+    NFL MVP Tracker -- Design
+    Judah Ellison
+    December 2023/January 2024
+"""
+# Classes
+    # Helmet
+        # Player name
+        # Weekly odds
+        # Weekly stats
+        # Season stats
+    # Points
+        # Player name
+        # Odds for specific week
+        # Stats for specific week
+
+# Notable variables
+    # Dictionary with each players name and helmet name
+
+# Order of operations
+    # Draw horizontal axis (19 ticks)
+    # Draw vertical axis (max: 367 , min: -217 --> diff: 584)
+        # Axis Range: -217, 367
+        # Odds Range: +1200, -300
+        # Adjustment 1500/550 (for every odd point, the helmet moves 0.3333)
+    # Create helmet for each player
